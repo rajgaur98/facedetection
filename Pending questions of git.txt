@@ -1,0 +1,5 @@
+git stash.
+difference between git pull and git fetch.
+differencce between git merge and git rebase.
+how to revert to previous versions
+
